@@ -14,6 +14,34 @@
         Software Engineer</a>
         
             <p>An experienced IT professional with active Top Secret/SCI clearance and 7 plus years in the field. Skilled in customer relationship, IT service management, network management, server management, security, and information assurance. Also, trained in monitoring and troubleshooting large multiprotocol networks.</p>
+            <section>
+                <!--List of my interests and what I want to accomplish as a Software Engineer-->
+                <table>
+                    <caption>My interests and goals as a Software Enginner</caption>
+                    <thead>
+                    <th>Interests</th>
+                    <th>Interests' Goals</th>
+                    </thead>
+                <tbody>
+                    <tr>
+                        <td>Automation</td>
+                        <td>To improve work efficiency and productivity in the field of Cybersecurity.</td>
+                    </tr>
+                    <tr>
+                        <td>Mobile Application</td>
+                        <td>To create applications for gaming and everyday use.</td>
+                    </tr>
+                    <tr>
+                        <td>Web Development</td>
+                        <td>To create and personalize websites. </td>
+                    </tr>
+                    <tr>
+                        <td>Game Development</td>
+                        <td>To create realistic type games and entertainment to assist with learning.</td>
+                    </tr>
+                </tbody>
+                </table>
+            </section>
 </header>
 <main>          <!--Information about my most current position-->
     <section>
@@ -77,6 +105,7 @@
         <li>Dependable</li>
     </ol>
 </section>
+
 <section>
  <!--Brief ol list of my references-->
     <h2>Reference</h2>
@@ -91,4 +120,3 @@
 <footer></footer> 
 </body>
 </html>
-
